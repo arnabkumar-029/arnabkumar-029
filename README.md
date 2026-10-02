@@ -35,7 +35,7 @@ My goal is to become a skilled <strong>AI Engineer and Software Developer</stron
 ---
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnabkumar-029&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnabkumar-029&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
 
 <br/>
 
@@ -43,8 +43,7 @@ My goal is to become a skilled <strong>AI Engineer and Software Developer</stron
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabkumar-029&theme=dark&hide_border=false&layout=compact&langs_count=10)
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabkumar-029&theme=dark&hide_border=false&layout=compact&langs_count=10&cache_seconds=1800)
 
 # 📈 GitHub Activity:
 
