@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-<p style="font-size:14px;">
-
+<sub>
 Hi, I'm **Arnab Kumar Jana**, a **B.Tech student in Computer Science and Engineering (Artificial Intelligence & Robotics)** with a strong passion for technology, software development, artificial intelligence, and robotics. I enjoy building innovative solutions, solving real-world problems through programming, and continuously expanding my technical knowledge.
 
 I have a strong foundation in programming languages including **Python, C, Java, JavaScript, HTML, and CSS**. Alongside programming, I have studied core computer science subjects such as **Data Structures and Algorithms (DSA)**, **Database Management Systems (DBMS)**, **Computer Organization and Architecture (COA)**, **Operating Systems (OS)**, **Computer Networks (CN)**, **Object-Oriented Programming (OOP)**, and **Robotics Operating System (ROS)**.
@@ -11,8 +10,7 @@ I am passionate about **Artificial Intelligence, Machine Learning, Robotics, Ful
 For backend development and cloud-based applications, I have experience working with **Supabase** for databases and authentication. I use **Git** and **GitHub** for version control and collaboration, and I deploy applications using platforms such as **Render**. I am always eager to learn new frameworks, tools, and technologies that help build secure, scalable, and high-performance applications.
 
 My goal is to become a skilled **AI Engineer and Software Developer**, building intelligent applications that make a meaningful impact. I believe in continuous learning, teamwork, innovation, and delivering high-quality software through practical experience and modern engineering practices. I am constantly seeking opportunities to enhance my skills, contribute to exciting projects, and grow as a technology professional.
-
-</p>
+</sub>
 ---
 ## 🌐 Socials:
 
