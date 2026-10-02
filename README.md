@@ -11,7 +11,9 @@ For backend development and cloud-based applications, I have experience working 
 
 My goal is to become a skilled **AI Engineer and Software Developer**, building intelligent applications that make a meaningful impact. I believe in continuous learning, teamwork, innovation, and delivering high-quality software through practical experience and modern engineering practices. I am constantly seeking opportunities to enhance my skills, contribute to exciting projects, and grow as a technology professional.
 </sub>
+
 ---
+
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/share/1BAhCUTFzv/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/btw_its_arnab__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnab-kumar-jana-965a7b360) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@love_status_creator_43) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnabkumarjana0293ac@gmail.com)
