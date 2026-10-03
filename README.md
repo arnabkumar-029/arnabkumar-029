@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-<small>
+<h2>
 Hi, I'm <strong>Arnab Kumar Jana</strong>, a <strong>B.Tech student in Computer Science and Engineering (Artificial Intelligence & Robotics)</strong> with a strong passion for technology, software development, artificial intelligence, and robotics. I enjoy building innovative solutions, solving real-world problems through programming, and continuously expanding my technical knowledge.
-</small>
+</h2>
 
 <small>
 I have a strong foundation in programming languages including <strong>Python, C, Java, JavaScript, HTML, and CSS</strong>. Alongside programming, I have studied core computer science subjects such as <strong>Data Structures and Algorithms (DSA)</strong>, <strong>Database Management Systems (DBMS)</strong>, <strong>Computer Organization and Architecture (COA)</strong>, <strong>Operating Systems (OS)</strong>, <strong>Computer Networks (CN)</strong>, <strong>Object-Oriented Programming (OOP)</strong>, and <strong>Robotics Operating System (ROS)</strong>.
