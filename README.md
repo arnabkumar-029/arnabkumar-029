@@ -54,10 +54,12 @@ My goal is to become a skilled <strong>AI Engineer and Software Developer</stron
 
 ---
 
+---
+
 # 📈 GitHub Activity:
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/arnabkumar-029" alt="Arnab Kumar Jana GitHub Activity" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnabkumar-029&bg_color=0d1117&color=58a6ff&line=238636&point=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 </p>
 
 ---
@@ -65,7 +67,7 @@ My goal is to become a skilled <strong>AI Engineer and Software Developer</stron
 ## 👀 Profile Views:
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnabkumar-029&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=arnabkumar-029" alt="Profile Views"/>
 </p>
 
 ---
