@@ -37,24 +37,29 @@ My goal is to become a skilled <strong>AI Engineer and Software Developer</stron
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnabkumar-029&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=arnabkumar-029&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arnabkumar-029&theme=dark&hide_border=false&timezone=Asia%2FKolkata" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=arnabkumar-029&theme=dark&hide_border=false&timezone=Asia%2FKolkata"
+    alt="GitHub Streak"
+  />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabkumar-029&theme=dark&hide_border=false&layout=compact&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabkumar-029&theme=dark&hide_border=false&layout=compact&langs_count=10&cache_seconds=1800"
+    alt="Top Languages"
+  />
 </p>
-
----
-
----
 
 ---
 
@@ -73,7 +78,10 @@ My goal is to become a skilled <strong>AI Engineer and Software Developer</stron
 ## 👀 Profile Views:
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnabkumar-029" alt="Profile Views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=arnabkumar-029"
+    alt="Profile Views"
+  />
 </p>
 
 ---
