@@ -36,32 +36,44 @@ My goal is to become a skilled <strong>AI Engineer and Software Developer</stron
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnabkumar-029&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arnabkumar-029&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+</p>
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=arnabkumar-029&theme=dark&hide_border=false&timezone=Asia%2FKolkata)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=arnabkumar-029&theme=dark&hide_border=false&timezone=Asia%2FKolkata" alt="GitHub Streak"/>
+</p>
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnabkumar-029&theme=dark&hide_border=false&layout=compact&langs_count=10&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnabkumar-029&theme=dark&hide_border=false&layout=compact&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
+</p>
 
 ---
 
 # 📈 GitHub Activity:
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=arnabkumar-029&theme=github-dark&hide_border=false)
+<p align="center">
+  <img src="https://ghchart.rshah.org/arnabkumar-029" alt="Arnab Kumar Jana GitHub Activity" width="100%"/>
+</p>
 
 ---
 
 ## 👀 Profile Views:
 
-[![](https://komarev.com/ghpvc/?username=arnabkumar-029&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arnabkumar-029&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
 ## 🚀 Thanks for visiting my profile!
 
-⭐ **Feel free to explore my repositories and projects.**
+<p align="center">
+  ⭐ <strong>Feel free to explore my repositories and projects.</strong>
+</p>
 
 <!-- Proudly created with GPRM -->
