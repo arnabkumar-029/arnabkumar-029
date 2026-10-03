@@ -87,10 +87,12 @@ I believe in continuous learning, teamwork, innovation, and delivering high-qual
 <h2>👀 Profile Views</h2>
 
 <p align="center">
-  <img
-    src="https://view-counter.tobyhagan.com/?user=arnabkumar-029&base=0d1117&accent=00D9FF&text=FFFFFF"
-    alt="Profile Views"
-  />
+  <a href="https://github.com/arnabkumar-029">
+    <img
+      src="https://komarev.com/ghpvc/?username=arnabkumar-029&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge"
+      alt="Profile Views"
+    />
+  </a>
 </p>
 
 ---
