@@ -90,9 +90,8 @@ I believe in continuous learning, teamwork, innovation, and delivering high-qual
 
 <p align="center">
   <img
-    src="./profile-views.svg"
+    src="https://view-counter.tobyhagan.com/?user=arnabkumar-029&base=0d1117&accent=00D9FF&text=FFFFFF"
     alt="Profile Visitors"
-    width="420"
   />
 </p>
 
