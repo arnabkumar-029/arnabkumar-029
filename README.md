@@ -95,10 +95,6 @@ I believe in continuous learning, teamwork, innovation, and delivering high-qual
   />
 </p>
 
-<p align="center">
-  <sub>✨ Thanks for stopping by my profile!</sub>
-</p>
-
 ---
 
 ## 🚀 Thanks for visiting my profile!
