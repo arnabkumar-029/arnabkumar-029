@@ -30,6 +30,7 @@ My goal is to become a skilled
 building intelligent applications that make a meaningful impact.
 
 I believe in continuous learning, teamwork, innovation, and delivering high-quality software through practical experience and modern engineering practices. I am constantly seeking opportunities to enhance my skills, contribute to exciting projects, and grow as a technology professional.
+
 ---
 
 ## 🌐 Socials:
@@ -72,6 +73,7 @@ I believe in continuous learning, teamwork, innovation, and delivering high-qual
 </p>
 
 ---
+
 # 📈 GitHub Activity:
 
 <p align="center">
@@ -84,15 +86,18 @@ I believe in continuous learning, teamwork, innovation, and delivering high-qual
 
 ---
 
-<h2>👀 Profile Views</h2>
-
-<h2 align="center">👀 Profile Visitors</h2>
+<h2 align="center">👁️ Profile Visitors</h2>
 
 <p align="center">
   <img
     src="./profile-views.svg"
     alt="Profile Visitors"
+    width="420"
   />
+</p>
+
+<p align="center">
+  <sub>✨ Thanks for stopping by my profile!</sub>
 </p>
 
 ---
