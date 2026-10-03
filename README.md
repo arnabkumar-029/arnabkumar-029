@@ -62,13 +62,12 @@ My goal is to become a skilled <strong>AI Engineer and Software Developer</stron
 </p>
 
 ---
-
 # 📈 GitHub Activity:
 
 <p align="center">
   <img
-    src="https://ghchart.xqsit94.in/dark:default/arnabkumar-029"
-    alt="GitHub Contributions"
+    src="./contribution-graph.svg"
+    alt="GitHub Contribution Graph"
     width="100%"
   />
 </p>
