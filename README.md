@@ -56,10 +56,16 @@ My goal is to become a skilled <strong>AI Engineer and Software Developer</stron
 
 ---
 
+---
+
 # 📈 GitHub Activity:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnabkumar-029&bg_color=0d1117&color=58a6ff&line=238636&point=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=arnabkumar-029&theme=github-compact&hide_border=true"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
 </p>
 
 ---
