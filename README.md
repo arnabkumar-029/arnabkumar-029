@@ -84,11 +84,11 @@ I believe in continuous learning, teamwork, innovation, and delivering high-qual
 
 ---
 
-<h2>👀 Profile Views:</h2>
+<h2>👀 Profile Views</h2>
 
 <p align="center">
   <img
-    src="https://view-counter.tobyhagan.com/?user=arnabkumar-029"
+    src="https://view-counter.tobyhagan.com/?user=arnabkumar-029&base=0d1117&accent=00D9FF&text=FFFFFF"
     alt="Profile Views"
   />
 </p>
