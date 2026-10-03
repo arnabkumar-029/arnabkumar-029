@@ -86,13 +86,13 @@ I believe in continuous learning, teamwork, innovation, and delivering high-qual
 
 <h2>👀 Profile Views</h2>
 
+<h2 align="center">👀 Profile Visitors</h2>
+
 <p align="center">
-  <a href="https://github.com/arnabkumar-029">
-    <img
-      src="https://komarev.com/ghpvc/?username=arnabkumar-029&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge"
-      alt="Profile Views"
-    />
-  </a>
+  <img
+    src="./profile-views.svg"
+    alt="Profile Visitors"
+  />
 </p>
 
 ---
