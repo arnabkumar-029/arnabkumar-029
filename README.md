@@ -84,11 +84,11 @@ I believe in continuous learning, teamwork, innovation, and delivering high-qual
 
 ---
 
-## 👀 Profile Views:
+<h2>👀 Profile Views:</h2>
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=arnabkumar-029"
+    src="https://komarev.com/ghpvc/?username=arnabkumar-029&style=for-the-badge&label=PROFILE+VIEWS"
     alt="Profile Views"
   />
 </p>
