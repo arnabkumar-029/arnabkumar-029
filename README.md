@@ -88,7 +88,7 @@ I believe in continuous learning, teamwork, innovation, and delivering high-qual
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=arnabkumar-029&style=for-the-badge&label=PROFILE+VIEWS"
+    src="https://view-counter.tobyhagan.com/?user=arnabkumar-029"
     alt="Profile Views"
   />
 </p>
