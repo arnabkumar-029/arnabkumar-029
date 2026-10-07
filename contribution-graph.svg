@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="893" height="157" viewBox="0 0 893 157">
 <rect width="100%" height="100%" fill="#0d1117" rx="6"/>
-<text x="35" y="18" font-family="Arial, sans-serif" font-size="11" fill="#8b949e">Oct</text>
 <text x="83" y="18" font-family="Arial, sans-serif" font-size="11" fill="#8b949e">Nov</text>
 <text x="163" y="18" font-family="Arial, sans-serif" font-size="11" fill="#8b949e">Dec</text>
 <text x="227" y="18" font-family="Arial, sans-serif" font-size="11" fill="#8b949e">Jan</text>
@@ -16,7 +15,6 @@
 <text x="0" y="45" font-family="Arial, sans-serif" font-size="10" fill="#8b949e">Mon</text>
 <text x="0" y="77" font-family="Arial, sans-serif" font-size="10" fill="#8b949e">Wed</text>
 <text x="0" y="109" font-family="Arial, sans-serif" font-size="10" fill="#8b949e">Fri</text>
-<rect x="35" y="51" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on October 7, 2025</title></rect>
 <rect x="35" y="67" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on October 8, 2025</title></rect>
 <rect x="35" y="83" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on October 9, 2025</title></rect>
 <rect x="35" y="99" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on October 10, 2025</title></rect>
@@ -59,7 +57,7 @@
 <rect x="131" y="19" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on November 16, 2025</title></rect>
 <rect x="131" y="35" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on November 17, 2025</title></rect>
 <rect x="131" y="51" width="12" height="12" rx="2" fill="#9be9a8"><title>1 contribution on November 18, 2025</title></rect>
-<rect x="131" y="67" width="12" height="12" rx="2" fill="#40c463"><title>2 contributions on November 19, 2025</title></rect>
+<rect x="131" y="67" width="12" height="12" rx="2" fill="#9be9a8"><title>2 contributions on November 19, 2025</title></rect>
 <rect x="131" y="83" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on November 20, 2025</title></rect>
 <rect x="131" y="99" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on November 21, 2025</title></rect>
 <rect x="131" y="115" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on November 22, 2025</title></rect>
@@ -249,7 +247,7 @@
 <rect x="563" y="35" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on May 25, 2026</title></rect>
 <rect x="563" y="51" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on May 26, 2026</title></rect>
 <rect x="563" y="67" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on May 27, 2026</title></rect>
-<rect x="563" y="83" width="12" height="12" rx="2" fill="#216e39"><title>5 contributions on May 28, 2026</title></rect>
+<rect x="563" y="83" width="12" height="12" rx="2" fill="#30a14e"><title>5 contributions on May 28, 2026</title></rect>
 <rect x="563" y="99" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on May 29, 2026</title></rect>
 <rect x="563" y="115" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on May 30, 2026</title></rect>
 <rect x="579" y="19" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on May 31, 2026</title></rect>
@@ -320,7 +318,7 @@
 <rect x="723" y="51" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on August 4, 2026</title></rect>
 <rect x="723" y="67" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on August 5, 2026</title></rect>
 <rect x="723" y="83" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on August 6, 2026</title></rect>
-<rect x="723" y="99" width="12" height="12" rx="2" fill="#216e39"><title>4 contributions on August 7, 2026</title></rect>
+<rect x="723" y="99" width="12" height="12" rx="2" fill="#40c463"><title>4 contributions on August 7, 2026</title></rect>
 <rect x="723" y="115" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on August 8, 2026</title></rect>
 <rect x="739" y="19" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on August 9, 2026</title></rect>
 <rect x="739" y="35" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on August 10, 2026</title></rect>
@@ -380,5 +378,6 @@
 <rect x="851" y="115" width="12" height="12" rx="2" fill="#216e39"><title>40 contributions on October 3, 2026</title></rect>
 <rect x="867" y="19" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on October 4, 2026</title></rect>
 <rect x="867" y="35" width="12" height="12" rx="2" fill="#216e39"><title>31 contributions on October 5, 2026</title></rect>
-<rect x="867" y="51" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on October 6, 2026</title></rect>
+<rect x="867" y="51" width="12" height="12" rx="2" fill="#216e39"><title>8 contributions on October 6, 2026</title></rect>
+<rect x="867" y="67" width="12" height="12" rx="2" fill="#161b22"><title>0 contributions on October 7, 2026</title></rect>
 </svg>
